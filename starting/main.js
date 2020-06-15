@@ -7,10 +7,6 @@ const pathCharacter = '*';
 
 class Field {
     class Field {
-    const myField = new Field([
-        ['*', '░', 'O'],
-        ['░', 'O', '░'],
-        ['░', '^', '░'],
-    ])
+   
 };
 }
